@@ -14,5 +14,6 @@ cd AMRSegNet
 - Our T2W-DWI MR dataset is private. For code implementation, the dataset for training and testing consist of T2W slices, DWI slices, label slices, which are all paired. 
   
 ## Training
-- In the folder of repository, open terminal and run '<python train.py>'. If 
+- In the folder of repository, open terminal and run `python train.py`. 
+- Note: adding `--
 
