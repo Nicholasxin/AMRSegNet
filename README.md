@@ -4,8 +4,8 @@ This is the Pytorch implementation of AMRSegNet for paper《Adaptive Modality Re
 ## Installation
 - Install [pytorch](https://pytorch.org/get-started/previous-versions/) with python 3.7, pytorch==1.4.0, torchvision==0.5.0, CUDA==10.1.
 - Python package requirement: SimpleITk, pydicom, tensorboardX
-- Clone this repository: 
-`git clone https://github.com/Nicholasxin/AMRSegNet
+- Clone this repository:  
+`git clone https://github.com/Nicholasxin/AMRSegNet  
  cd AMRSegNet
 `
 
