@@ -12,7 +12,8 @@ cd AMRSegNet
 
 ## Dataset
 - Our T2W-DWI MR dataset is private. For code implementation, the dataset for training and testing consist of T2W slices, DWI slices, label slices, which are all paired. 
-  
+
+
 ## Training
 - In the folder of repository `AMRSegNet`, open terminal and run `python train.py`. 
 - Note: adding `--ngpu` to alter to the number of GPUs, adding `--batchSz` to change the batch size, adding `--nEpochs` to set the number of training epochs.  
@@ -22,3 +23,5 @@ cd AMRSegNet
 ## Testing  
 - run `python train.py` with `--inference` following the path of inference T2W data, `--dwiinference` following the path of inference DWI data, `--target` following the path of label of T2W data, `--resume` following the path of the best saved training model. All the added commands are requisite. 
 
+## Note
+- 06/01/2021: code released
