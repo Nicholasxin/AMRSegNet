@@ -6,7 +6,7 @@ This is the Pytorch implementation of AMRSegNet for paper《Adaptive Modality Re
 - Python package requirement: SimpleITk, pydicom, tensorboardX
 - Clone this repository:  
 `git clone https://github.com/Nicholasxin/AMRSegNet  
- cd AMRSegNet
+cd AMRSegNet
 `
 
 ## Dataset
